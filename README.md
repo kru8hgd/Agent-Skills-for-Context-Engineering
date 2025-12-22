@@ -92,6 +92,8 @@ skill-name/
 
 See the [template](template/) folder for the canonical skill structure.
 
+[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/star-history&type=Date)](https://star-history.com/#bytebase/star-history&Date)
+
 ## Contributing
 
 This repository follows the Agent Skills open development model. Contributions are welcome from the broader ecosystem. When contributing:
