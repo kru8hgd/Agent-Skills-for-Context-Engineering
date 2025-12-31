@@ -1,0 +1,5 @@
+{
+  "name": "context-compression",
+  "description": "Design and evaluate context compression strategies for long-running agent sessions.",
+  "version": "1.0.0"
+}
