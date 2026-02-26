@@ -33,9 +33,9 @@ Evaluation approaches fall into two primary categories with distinct reliability
 - Failure mode: Score calibration drift, inconsistent scale interpretation
 
 **Pairwise Comparison**: An LLM compares two responses and selects the better one.
-- Best for: Subjective preferences (tone, style, persuasiveness)
-- Reliability: Higher than direct scoring for preferences
-- Failure mode: Position bias, length bias
+- Best for: Subjective preferences (tone, style, persuasiveness).
+- Reliability: Higher than direct scoring for preferences.
+- Failure mode: Position bias, length bias.
 
 Research from the MT-Bench paper (Zheng et al., 2023) establishes that pairwise comparison achieves higher agreement with human judges than direct scoring for preference-based evaluation, while direct scoring remains appropriate for objective criteria with clear ground truth.
 
